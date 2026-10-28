@@ -1,0 +1,9 @@
+# Keep locally generated logs, backups, caches and HCL projects out of the repository.
+*.log
+*.zip
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+__pycache__/
+gen_py/
